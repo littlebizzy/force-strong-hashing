@@ -1,6 +1,7 @@
 === Force Strong Hashing ===
 
 Contributors: littlebizzy
+Donate link: https://www.patreon.com/littlebizzy
 Tags: force, strong, hashing, bcrypt, passwords
 Requires at least: 4.4
 Tested up to: 4.9
